@@ -1,5 +1,9 @@
 # 💫 About Me:
-👨🏻‍💻Front-End Developer.<br>🤝Looking to collaborate on projects.<br>🏪Small Business Focus<br>✅Proven track record of collaborating with small businesses to <br>     understand their specific requirements and objectives.<br>💻Enthusiastic about incorporating new techniques to improve project outcomes.
+👨🏻‍💻 Front-End Developer | 🚀 MERN Stack & DevOps | 📦 WordPress & PHP
+
+🤝 Open to Collaborations – Passionate about teaming up on innovative projects!
+🏪 Small Business Specialist – Proven experience in understanding and delivering tailored solutions for small businesses.
+✨ Tech Enthusiast – Always exploring new techniques to enhance efficiency and project success.
 
 
 ## 🌐 Socials:
