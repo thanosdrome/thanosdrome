@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨🏻‍💻 Front-End Developer | 🚀 MERN Stack & DevOps | 📦 WordPress & PHP
+👨🏻‍💻 Front-End Developer | 🚀 MERN Stack & DevOps |
 
 🤝 Open to Collaborations – Passionate about teaming up on innovative projects!
 🏪 Small Business Specialist – Proven experience in understanding and delivering tailored solutions for small businesses.
