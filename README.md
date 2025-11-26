@@ -9,8 +9,49 @@
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjanshu)  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/thanosdrome) 
 
-# 💻 Tech Stack:
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white) ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white) ![WordPress](https://img.shields.io/badge/WordPress-%23117AC9.svg?style=for-the-badge&logo=WordPress&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
+## :u6709:Languages :
+
+![](https://img.shields.io/badge/Code-Typescript-informational?style=flat-square&logo=Typescript&logoColor=white&color=3178C6)
+![](https://img.shields.io/badge/Code-Javascript-informational?style=flat-square&logo=Javascript&logoColor=white&color=F7DF1E)
+![](https://img.shields.io/badge/Code-Bash-informational?style=flat-square&logo=GNU%20Bash&logoColor=white&color=4EAA25)
+![](https://img.shields.io/badge/Code-C%2B%2B-informational?style=flat-square&logo=C%2B%2B&logoColor=white&color=00599C)
+
+![](https://img.shields.io/badge/Code-C%23-informational?style=flat-square&logo=C%23&logoColor=white&color=239120)
+![](https://img.shields.io/badge/Code-Python-informational?style=flat-square&logo=Python&logoColor=white&color=3776AB)
+
+## :iphone:Frontend: :
+
+![](https://img.shields.io/badge/Tools-WebGL-informational?style=flat-square&logo=WebGL&logoColor=white&color=990000)
+![](https://img.shields.io/badge/Tools-React-informational?style=flat-square&logo=React&logoColor=white&color=61DAFB)
+![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat-square&logo=Webpack&logoColor=white&color=8DD6F9)
+
+![](https://img.shields.io/badge/Tools-PWA-informational?style=flat-square&logo=PWA&logoColor=white&color=5A0FC8)
+![](https://img.shields.io/badge/Library-TensorFlow-informational?style=flat-square&logo=TensorFlow&logoColor=white&color=FF6F00)
+![](https://img.shields.io/badge/Tools-Vite-informational?style=flat-square&logo=Vite&logoColor=white&color=646CFF)
+
+## :computer:Backend:
+
+![](https://img.shields.io/badge/Tools-Express-informational?style=flat-square&logo=Express&logoColor=white&color=000000)
+![](https://img.shields.io/badge/Tools-Socket.io-informational?style=flat-square&logo=Socket.io&logoColor=white&color=010101)
+![](https://img.shields.io/badge/Cloud-Google-informational?style=flat-square&logo=Google%20Cloud&logoColor=white&color=4285F4)
+
+![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat-square&logo=MongoDB&logoColor=white&color=47A248)
+![](https://img.shields.io/badge/Tools-Redis-informational?style=flat-square&logo=Redis&logoColor=white&color=DC382D)
+![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat-square&logo=Heroku&logoColor=white&color=430098)
+
+## :notebook:Tools :
+
+![](https://img.shields.io/badge/Editor-VS%20Code-informational?style=flat-square&logo=Visual%20Studio%20Code&logoColor=white&color=007ACC)
+![](https://img.shields.io/badge/OS-Red%20Hat-informational?style=flat-square&logo=Red%20Hat&logoColor=white&color=EE0000)
+![](https://img.shields.io/badge/OS-Windows-informational?style=flat-square&logo=Windows&logoColor=white&color=0078D6)
+![](https://img.shields.io/badge/Tools-Brave-informational?style=flat-square&logo=Brave&logoColor=white&color=FB542B)
+
+![](https://img.shields.io/badge/IDE-Unity-informational?style=flat-square&logo=Unity&logoColor=white&color=FFFFFF)
+![](https://img.shields.io/badge/Editor-Atom-informational?style=flat-square&logo=Atom&logoColor=white&color=66595C)
+![](https://img.shields.io/badge/OS-Proxmox-informational?style=flat-square&logo=Proxmox&logoColor=white&color=E57000)
+![](https://img.shields.io/badge/OS-Ubuntu-informational?style=flat-square&logo=Ubuntu&logoColor=white&color=E95420)
+![](https://img.shields.io/badge/OS-Kali%20Linux-informational?style=flat-square&logo=Kali%20Linux&logoColor=white&color=557C94)
+
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=thanosdrome&theme=dark&hide_border=false&include_all_commits=false&count_private=false)
 ![](https://nirzak-streak-stats.vercel.app/?user=thanosdrome&theme=dark&hide_border=false)
