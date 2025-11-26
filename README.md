@@ -7,8 +7,7 @@
 
 
 ## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ranjanshu)  [![Codepen](https://img.shields.io/badge/Codepen-000000?style=for-the-badge&logo=codepen&logoColor=white)](https://codepen.io/thanosdrome) 
-
+[![LinkedIn](https://img.shields.io/badge/Social-LinkedIn-informational?style=flat-square&logo=LinkedIn&logoColor=white&color=0A66C2)](https://linkedin.com/in/ranjanshu)  
 ## :u6709:Languages :
 
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat-square&logo=Typescript&logoColor=white&color=3178C6)
