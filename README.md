@@ -33,21 +33,37 @@
 ![](https://img.shields.io/badge/Tools-Express-informational?style=flat-square&logo=Express&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Tools-Socket.io-informational?style=flat-square&logo=Socket.io&logoColor=white&color=010101)
 ![](https://img.shields.io/badge/Cloud-Google-informational?style=flat-square&logo=Google%20Cloud&logoColor=white&color=4285F4)
+
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat-square&logo=MongoDB&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat-square&logo=Redis&logoColor=white&color=DC382D)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat-square&logo=Heroku&logoColor=white&color=430098)
-[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
-[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white&style=for-the-badge)](https://kubernetes.io/)
-[![Terraform](https://img.shields.io/badge/Terraform-%23565aeb.svg?logo=terraform&logoColor=white&style=for-the-badge)](https://www.terraform.io/)
-[![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?logo=ansible&logoColor=white&style=for-the-badge)](https://www.ansible.com/)
-[![Jenkins](https://img.shields.io/badge/Jenkins-%23FEE101.svg?logo=jenkins&logoColor=black&style=for-the-badge)](https://www.jenkins.io/)
-[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%23221e1f.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/features/actions)
-[![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23FC6D26.svg?logo=gitlab&logoColor=white&style=for-the-badge)](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
-[![CircleCI](https://img.shields.io/badge/CircleCI-%23000000.svg?logo=circleci&logoColor=white&style=for-the-badge)](https://circleci.com/)
-[![Travis CI](https://img.shields.io/badge/Travis_CI-%2315C213.svg?logo=travis&logoColor=white&style=for-the-badge)](https://travis-ci.org/)
-[![Helm](https://img.shields.io/badge/Helm-%23007ACC.svg?logo=helm&logoColor=white&style=for-the-badge)](https://helm.sh/)
-[![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?logo=prometheus&logoColor=white&style=for-the-badge)](https://prometheus.io/)
-[![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?logo=grafana&logoColor=white&style=for-the-badge)](https://grafana.com/)
+
+## 🛠️ DevOps Toolset
+
+![Docker](https://img.shields.io/badge/Tools-Docker-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)
+![Kubernetes](https://img.shields.io/badge/Tools-Kubernetes-informational?style=flat-square&logo=kubernetes&logoColor=white&color=326CE5)
+![Terraform](https://img.shields.io/badge/Tools-Terraform-informational?style=flat-square&logo=terraform&logoColor=white&color=7B42BC)
+![Ansible](https://img.shields.io/badge/Tools-Ansible-informational?style=flat-square&logo=ansible&logoColor=white&color=EE0000)
+![Jenkins](https://img.shields.io/badge/CI/Jenkins-informational?style=flat-square&logo=jenkins&logoColor=white&color=D24939)
+
+![GitHub Actions](https://img.shields.io/badge/CI/GitHub_Actions-informational?style=flat-square&logo=githubactions&logoColor=white&color=2088FF)
+![GitLab CI](https://img.shields.io/badge/CI/GitLab_CI-informational?style=flat-square&logo=gitlab&logoColor=white&color=FC6D26)
+![Helm](https://img.shields.io/badge/Tools-Helm-informational?style=flat-square&logo=helm&logoColor=white&color=0F1689)
+
+![Prometheus](https://img.shields.io/badge/Monitoring-Prometheus-informational?style=flat-square&logo=prometheus&logoColor=white&color=E6522C)
+![Grafana](https://img.shields.io/badge/Monitoring-Grafana-informational?style=flat-square&logo=grafana&logoColor=white&color=F46800)
+![ELK Stack](https://img.shields.io/badge/Logging-ELK_Stack-informational?style=flat-square&logo=elasticstack&logoColor=white&color=005571)
+
+![Vault](https://img.shields.io/badge/Security-HashiCorp_Vault-informational?style=flat-square&logo=vault&logoColor=white&color=000000)
+![Argo CD](https://img.shields.io/badge/GitOps-Argo_CD-informational?style=flat-square&logo=argo&logoColor=white&color=EF7B4D)
+![Docker Compose](https://img.shields.io/badge/Tools-Docker_Compose-informational?style=flat-square&logo=docker&logoColor=white&color=2496ED)
+
+![Nginx](https://img.shields.io/badge/Tools-Nginx-informational?style=flat-square&logo=nginx&logoColor=white&color=009639)
+![AWS](https://img.shields.io/badge/Cloud-AWS-informational?style=flat-square&logo=amazonwebservices&logoColor=white&color=FF9900)
+![GCP](https://img.shields.io/badge/Cloud-GCP-informational?style=flat-square&logo=googlecloud&logoColor=white&color=4285F4)
+![Azure](https://img.shields.io/badge/Cloud-Azure-informational?style=flat-square&logo=microsoftazure&logoColor=white&color=0078D4)
+
+
 
 
 
