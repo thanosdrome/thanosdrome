@@ -33,10 +33,23 @@
 ![](https://img.shields.io/badge/Tools-Express-informational?style=flat-square&logo=Express&logoColor=white&color=000000)
 ![](https://img.shields.io/badge/Tools-Socket.io-informational?style=flat-square&logo=Socket.io&logoColor=white&color=010101)
 ![](https://img.shields.io/badge/Cloud-Google-informational?style=flat-square&logo=Google%20Cloud&logoColor=white&color=4285F4)
-
 ![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat-square&logo=MongoDB&logoColor=white&color=47A248)
 ![](https://img.shields.io/badge/Tools-Redis-informational?style=flat-square&logo=Redis&logoColor=white&color=DC382D)
 ![](https://img.shields.io/badge/Cloud-Heroku-informational?style=flat-square&logo=Heroku&logoColor=white&color=430098)
+[![Docker](https://img.shields.io/badge/Docker-%230db7ed.svg?logo=docker&logoColor=white&style=for-the-badge)](https://www.docker.com/)
+[![Kubernetes](https://img.shields.io/badge/Kubernetes-%23326ce5.svg?logo=kubernetes&logoColor=white&style=for-the-badge)](https://kubernetes.io/)
+[![Terraform](https://img.shields.io/badge/Terraform-%23565aeb.svg?logo=terraform&logoColor=white&style=for-the-badge)](https://www.terraform.io/)
+[![Ansible](https://img.shields.io/badge/Ansible-%23EE0000.svg?logo=ansible&logoColor=white&style=for-the-badge)](https://www.ansible.com/)
+[![Jenkins](https://img.shields.io/badge/Jenkins-%23FEE101.svg?logo=jenkins&logoColor=black&style=for-the-badge)](https://www.jenkins.io/)
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-%23221e1f.svg?logo=github&logoColor=white&style=for-the-badge)](https://github.com/features/actions)
+[![GitLab CI](https://img.shields.io/badge/GitLab_CI-%23FC6D26.svg?logo=gitlab&logoColor=white&style=for-the-badge)](https://about.gitlab.com/stages-devops-lifecycle/continuous-integration/)
+[![CircleCI](https://img.shields.io/badge/CircleCI-%23000000.svg?logo=circleci&logoColor=white&style=for-the-badge)](https://circleci.com/)
+[![Travis CI](https://img.shields.io/badge/Travis_CI-%2315C213.svg?logo=travis&logoColor=white&style=for-the-badge)](https://travis-ci.org/)
+[![Helm](https://img.shields.io/badge/Helm-%23007ACC.svg?logo=helm&logoColor=white&style=for-the-badge)](https://helm.sh/)
+[![Prometheus](https://img.shields.io/badge/Prometheus-%23E6522C.svg?logo=prometheus&logoColor=white&style=for-the-badge)](https://prometheus.io/)
+[![Grafana](https://img.shields.io/badge/Grafana-%23F46800.svg?logo=grafana&logoColor=white&style=for-the-badge)](https://grafana.com/)
+
+
 
 ## :notebook:Tools :
 
