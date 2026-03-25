@@ -1,5 +1,4 @@
-# Me:
-SDE | MERN Stack & DevOps |
+SDE | MERN, Python & DevOps |
 Tech Enthusiast – Always exploring new techniques to enhance efficiency and project success.
 
 ## Languages :
