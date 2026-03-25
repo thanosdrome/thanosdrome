@@ -1,13 +1,7 @@
-# 💫 About Me:
-👨🏻‍💻 Front-End Developer | 🚀 MERN Stack & DevOps |
+# Me:
+SDE | 🚀 MERN Stack & DevOps |
+Tech Enthusiast – Always exploring new techniques to enhance efficiency and project success.
 
-🤝 Open to Collaborations – Passionate about teaming up on innovative projects!
-🏪 Small Business Specialist – Proven experience in understanding and delivering tailored solutions for small businesses.
-✨ Tech Enthusiast – Always exploring new techniques to enhance efficiency and project success.
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/Social-LinkedIn-informational?style=flat-square&logo=LinkedIn&logoColor=white&color=0A66C2)](https://linkedin.com/in/ranjanshu)  
 ## :u6709:Languages :
 
 ![](https://img.shields.io/badge/Code-Typescript-informational?style=flat-square&logo=Typescript&logoColor=white&color=3178C6)
@@ -17,17 +11,19 @@
 
 ## :iphone:Frontend: :
 
-![](https://img.shields.io/badge/Tools-React-informational?style=flat-square&logo=React&logoColor=white&color=61DAFB)
-![](https://img.shields.io/badge/Tools-Webpack-informational?style=flat-square&logo=Webpack&logoColor=white&color=8DD6F9)
-![](https://img.shields.io/badge/Tools-PWA-informational?style=flat-square&logo=PWA&logoColor=white&color=5A0FC8)
-![](https://img.shields.io/badge/Tools-Vite-informational?style=flat-square&logo=Vite&logoColor=white&color=646CFF)
+![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react)
+![](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
+![](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)
+![](https://img.shields.io/badge/PWA-282C34?logo=PWA)
+![](https://img.shields.io/badge/-Vite-B73BFE?style=flat&logo=vite&logoColor=white)
 
 ## :computer:Backend:
 
-![](https://img.shields.io/badge/Tools-Express-informational?style=flat-square&logo=Express&logoColor=white&color=000000)
-![](https://img.shields.io/badge/Tools-Socket.io-informational?style=flat-square&logo=Socket.io&logoColor=white&color=010101)
-![](https://img.shields.io/badge/Tools-MongoDB-informational?style=flat-square&logo=MongoDB&logoColor=white&color=47A248)
-![](https://img.shields.io/badge/Tools-Redis-informational?style=flat-square&logo=Redis&logoColor=white&color=DC382D)
+![](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=fff&style=flat)
+![](https://img.shields.io/badge/Socket.io-4.1.3-010101??style=flat-square&logo=Socket.io&logoColor=white)
+![](https://img.shields.io/badge/-MongoDB-4DB33D?style=flat&logo=mongodb&logoColor=FFFFFF)
+![](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
+![](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
 
 ## 🛠️ DevOps Toolset
 
