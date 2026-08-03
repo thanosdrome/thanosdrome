@@ -1,7 +1,6 @@
-SDE | MERN, Python & DevOps |
-Tech Enthusiast – Always exploring new techniques to enhance efficiency and project success.
+SDE building full-stack platforms — and the DevOps pipelines that ship them.
 
-## Languages :
+### Languages :
 
 ![](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
@@ -10,23 +9,28 @@ Tech Enthusiast – Always exploring new techniques to enhance efficiency and pr
 ![](https://img.shields.io/badge/-C%23-3A18A1?logo=csharp&logoColor=white)
 ![](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
 
-## Frontend: :
+### Frontend: :
 
 ![](https://img.shields.io/badge/-ReactJs-000000?logo=react)
 ![](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
 ![](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack&logoColor=white)
 ![](https://img.shields.io/badge/PWA-282C34?logo=PWA)
 ![](https://img.shields.io/badge/-Vite-B73BFE?style=flat&logo=vite&logoColor=white)
+![](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![](https://img.shields.io/badge/-Radix_UI-161618?logo=radixui&logoColor=white)
+![](https://img.shields.io/badge/-Zustand-433E38?logoColor=white)
 
-## Backend:
+### Backend:
 
 ![](https://img.shields.io/badge/Express.js-000000?logo=express&logoColor=white)
 ![](https://img.shields.io/badge/Socket.io-010101?logo=socket.io&logoColor=white)
 ![](https://img.shields.io/badge/-MongoDB-4DB33D?logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/-Redis-DC382D?logo=redis&logoColor=white)
 ![](https://img.shields.io/badge/PostgreSQL-316192?logo=postgresql&logoColor=white)
+![](https://img.shields.io/badge/-Prisma-2D3748?logo=prisma&logoColor=white)
+![](https://img.shields.io/badge/-WebAuthn-3423A6?logo=webauthn&logoColor=white)
 
-## DevOps Toolset
+### DevOps Toolset
 
 ![](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/-Kubernetes-326CE5?logo=kubernetes&logoColor=white)
@@ -41,7 +45,7 @@ Tech Enthusiast – Always exploring new techniques to enhance efficiency and pr
 ![](https://img.shields.io/badge/-Nginx-009639?logo=nginx&logoColor=white)
 ![](https://img.shields.io/badge/-AWS-FF9900?logo=amazon-web-services&logoColor=white)
 
-## Workflow & DX
+### Workflow & DX
 
 ![](https://img.shields.io/badge/-Oh_My_Zsh-FFFFFF?logo=oh-my-zsh&logoColor=black)
 ![](https://img.shields.io/badge/-Zsh-F2F2F2?logo=zsh&logoColor=black)
@@ -50,8 +54,9 @@ Tech Enthusiast – Always exploring new techniques to enhance efficiency and pr
 ![](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white)
 ![](https://img.shields.io/badge/-Turborepo-EF4444?logo=turborepo&logoColor=white)
 ![](https://img.shields.io/badge/-Nx-143055?logo=nx&logoColor=white)
+![](https://img.shields.io/badge/-Vitest-6E9F18?logo=vitest&logoColor=white)
 
-## Tools :
+### Tools :
 ![](https://img.shields.io/badge/-VS_Code-007ACC?logo=visual-studio-code&logoColor=white)
 ![](https://img.shields.io/badge/-Red_Hat-EE0000?logo=red-hat&logoColor=white)
 ![](https://img.shields.io/badge/-Windows-0078D6?logo=windows&logoColor=white)
