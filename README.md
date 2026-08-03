@@ -7,12 +7,14 @@ Tech Enthusiast – Always exploring new techniques to enhance efficiency and pr
 ![](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![](https://img.shields.io/badge/-Bash-4EAA25?logo=gnu-bash&logoColor=white)
 ![](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white)
+![](https://img.shields.io/badge/-C%23-3A18A1?logo=csharp&logoColor=white)
+![](https://img.shields.io/badge/-.NET-512BD4?logo=dotnet&logoColor=white)
 
 ## Frontend: :
 
-![](https://img.shields.io/badge/-ReactJs-61DAFB?logo=react)
+![](https://img.shields.io/badge/-ReactJs-000000?logo=react)
 ![](https://img.shields.io/badge/Next.js-000000?logo=next.js&logoColor=white)
-![](https://img.shields.io/badge/-Webpack-8DD6F9?style=flat&logo=webpack&logoColor=white)
+![](https://img.shields.io/badge/-Webpack-000000?style=flat&logo=webpack&logoColor=white)
 ![](https://img.shields.io/badge/PWA-282C34?logo=PWA)
 ![](https://img.shields.io/badge/-Vite-B73BFE?style=flat&logo=vite&logoColor=white)
 
@@ -41,10 +43,8 @@ Tech Enthusiast – Always exploring new techniques to enhance efficiency and pr
 
 ## Workflow & DX
 
-![](https://img.shields.io/badge/-iTerm2-000000?logo=iterm2&logoColor=white)
 ![](https://img.shields.io/badge/-Oh_My_Zsh-FFFFFF?logo=oh-my-zsh&logoColor=black)
 ![](https://img.shields.io/badge/-Zsh-F2F2F2?logo=zsh&logoColor=black)
-![](https://img.shields.io/badge/-Fish_Shell-4DB34D?logo=fishshell&logoColor=white)
 
 ![](https://img.shields.io/badge/-ESLint-4B32C3?logo=eslint&logoColor=white)
 ![](https://img.shields.io/badge/-Prettier-F7B93E?logo=prettier&logoColor=white)
